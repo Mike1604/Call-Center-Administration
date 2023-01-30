@@ -1,0 +1,12 @@
+debug/Agentlist.o
+debug/Agentnode.o
+debug/Call.o
+debug/CallList.o
+debug/CallMenu.o
+debug/CallNode.o
+debug/Date.o
+debug/Hour.o
+debug/Name.o
+debug/agent.o
+debug/agentmenu.o
+debug/main.o
